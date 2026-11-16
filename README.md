@@ -1,2 +1,8 @@
 # BDA-Mini-Project-5th-Sem
-Will it Rain? 
+
+## Use:
+
+pip install -r requirements.txt
+streamlit run app.py
+
+## in the project directory
